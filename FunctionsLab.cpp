@@ -34,8 +34,7 @@ void replaceVariable(int array[], int targetValue, int start, int end) {
 			if(array[i] == targetValue){
 				array[i]=1000;
 			}
-	return;
-}
+		}
 }
 
 //write a function called printArray to print out the elements of the given array
